@@ -1,10 +1,12 @@
-# heiheiwmy.github.io
 <html>
-<body>
 
-<h1>我的第一个标题</h1>
+<body background="/i/eg_background.jpg">
 
-<p>我的第一个段落。</p>
+<h3>图像背景</h3>
+
+<p>gif 和 jpg 文件均可用作 HTML 背景。</p>
+
+<p>如果图像小于页面，图像会进行重复。</p>
 
 </body>
 </html>
